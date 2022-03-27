@@ -1,0 +1,153 @@
+.title2{
+  margin: 0;
+  padding: 0;
+  color: white;
+  text-align: center;
+  font-family: Arial;
+  font-size: 45px;
+}
+.background{
+  background-color: #6d6f70;
+}
+
+.title{
+  margin:0px;
+  font-size: 50px;
+  color: white;
+  text-align:center;
+  font-family: sans-serif;
+  background-color: #3EB489.;
+}
+.about{
+  margin:0px;
+  font-size: 50px;
+  color: white;
+  text-align:center;
+  font-family: sans-serif;
+  background-color: #a0dba2;
+}
+.title3{
+  margin:0px;
+  font-size: 50px;
+  color: white;
+  text-align:center;
+  font-family: sans-serif;
+  background-color: brown;
+}
+.title4{
+  margin:0px;
+  font-size: 50px;
+  color: white;
+  text-align:center;
+  font-family: sans-serif;
+  background-color: blue;
+}
+.title6{
+  margin:0px;
+  font-size: 50px;
+  color: white;
+  text-align:center;
+  font-family: sans-serif;
+  background-color: red ;
+}
+.back{
+  float: right;
+}
+.title5{
+  margin:0px;
+  font-size: 50px;
+  color: white;
+  text-align:center;
+  font-family: sans-serif;
+  background-color: grey;
+}
+
+.start1 a:hover{
+  background-color: #399;
+}
+.shop a:hover{
+  background-color: teal;
+}
+.setting a:hover{
+  background-color: yellow;
+}
+.alg1 a:hover{
+  color: gold;
+}
+.geo a:hover{
+  color: lightblue;
+}
+.alg2 a:hover{
+  color: green;
+}
+.math a:hover{
+  color:orange;
+}
+.m a:hover{
+  color: black;
+}
+.g a:hover{
+  color: pink;
+}
+.h a:hover{
+  color:grey;
+}
+
+
+.start{
+  text-align:center;
+  padding: 50px;
+  margin: 45px;
+  color: #99c4c4;
+  font-size: 25px;
+  font-family: sans-serif;
+}
+.start2{
+  text-align:center;
+  padding: 20px;
+  margin: 45px;
+  color: #99c4c4;
+  font-size: 25px;
+  font-family: sans-serif;
+}
+a:link {text-decoration: none;}
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+body{ 
+  margin:0px;
+  background-color: #FF007F
+}
+.background3{
+  background-color: pink;
+}
+.background4{
+  background-color: #FFE5B4
+}
+.background5{
+  background-color: orange
+}
+.background6{
+  background-image: linear-gradient( #FF007F, lightblue);
+}
+.background7{
+  background-image: linear-gradient(orange, #FFE5B4 );
+}
+.background8{
+  background-image: linear-gradient(to right, lightblue, yellow );
+}
+.background9{
+  background-image: linear-gradient(to right, green, gold );
+}
+.background10{
+  background-color: brown;
+  color: white
+}
+.back2{
+  color:white;
+}
+.background11{
+  background-color: yellow;
+  text-align: center;
+  color: black;
+}
